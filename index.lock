@@ -169,6 +169,9 @@
 [cccharles_enhanced]
 "1.0.3" = "7b5463ab471d630eeaf477f8f0c149a200773ecd61e593afc643f4a66a1f2594"
 
+[celeste_classic]
+"0.2.0" = "ceaa0420da4425844a07182eb7594f7c7aa6786d35e591fb2c36e5967016e1ce"
+
 [checksmate]
 "0.3.1" = "04dfae6f87e3eaa24692a5dbf488cf5d8387e76f4419720a2248b21ef2b5f18b"
 
